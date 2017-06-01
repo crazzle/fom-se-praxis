@@ -19,6 +19,11 @@ Der Ordner "jenkins_plugins" enthält die Plugins um die Jobs starten zu können
 
 Der Order "scripts" enthält alle Shell-Skripte die zum Provisionieren benötigt werden.
 
+Um die Maschinen zu provisionieren müssen die folgenden "vagrant up ..." Befehle in diesem Verzeichnis ausgeführt werden.
+Um die Maschinen zu beenden entsprechend "vagrant halt ..." ausführen.
+
+Vagrant kann hier heruntergeladen werden: https://www.vagrantup.com
+
 
 Data Science
 ============
